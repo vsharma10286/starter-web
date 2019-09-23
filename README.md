@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 Changes in Test file for showing diff of staged and working dir. 
+
+now we are testing diff Between staged area and local git repo

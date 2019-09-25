@@ -2,3 +2,6 @@ This is test file only..
 
 
 Testing for Rebasing.
+
+
+now i am doing changes in remote repo directly, so that remote conflicts can occur.

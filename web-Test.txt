@@ -5,3 +5,6 @@ Testing for Rebasing.
 
 
 now i am doing changes in remote repo directly, so that remote conflicts can occur.
+
+
+Working in webTest file for Testing Stash Changes.
